@@ -1,0 +1,4 @@
+baseURL = "https://cod.ifi.cat/"
+languageCode = "ca-es"
+title = "cod.ifi.cat"
+theme = "ananke"
